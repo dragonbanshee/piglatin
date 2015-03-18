@@ -1,3 +1,5 @@
+[![Codacy Badge](https://www.codacy.com/project/badge/2d0598b93b8a4a178ba55730f0a2d820)](https://www.codacy.com/public/dragonbanshee/piglatin)
+
 # piglatin
 A Pig Latin translator written in Python. 
 
